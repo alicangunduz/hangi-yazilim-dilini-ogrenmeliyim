@@ -1,0 +1,78 @@
+body{
+  line-height: 1.65;
+  font-display: swap;
+  font-family: 'Russo One', sans-serif;
+}
+a,
+button,
+input {
+  cursor: pointer;
+  text-decoration: none;
+  &:hover {
+    text-decoration: none;
+  }
+  &:focus {
+    outline: none;
+  }
+}
+h1,h2,h3,h4,h5,h6 {
+  font-weight: 700;
+}
+img {
+  height: auto;
+  max-width: 100%;
+}
+
+/* transition - start
+================================================== */
+a,
+button {
+  transition: $default_transition;
+}
+/* transition - end
+================================================== */
+
+// dark version start ==================
+.dark-version.dark-version {
+  background-color: $color-blackis;
+  color: $white;
+  h1,
+  p,
+  label {
+    color: $white!important;
+  }
+  button,
+  input,
+  select,
+  textarea,
+  label
+  {
+    color: $black!important;
+    background-color: $white!important;
+  }
+  label{
+    transition: $default_transition;
+    &.active {
+      color: $white!important;
+      background-color: $color-blackis!important;
+      transition: $default_transition;
+    }
+  }
+}
+
+// Custom animation delay ==============
+.animate_25ms{
+  animation-delay: 25ms;
+}
+.animate_50ms{
+  animation-delay: 50ms;
+}
+.animate_75ms{
+  animation-delay: 75ms;
+}
+// Bootstrap setting start
+@media (min-width: 1500px){
+  .container{
+    max-width: 1510px;
+  }
+}

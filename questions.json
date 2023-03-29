@@ -1,0 +1,243 @@
+[
+    {
+        "question": "Hangi işletim sistemini kullanıyorsun 🤔",
+        "answers": [
+            {
+                "answer": "Windows",
+                "points": {
+                    "Python": 5,
+                    "Java": 5,
+                    "JavaScript": 5,
+                    "C++": 5
+                }
+            },
+            {
+                "answer": "macOS",
+                "points": {
+                    "Python": 5,
+                    "Java": 5,
+                    "JavaScript": 5,
+                    "C++": 4
+                }
+            },
+            {
+                "answer": "Linux",
+                "points": {
+                    "Python": 5,
+                    "Java": 5,
+                    "JavaScript": 5,
+                    "C++": 5
+                }
+            }
+        ]
+    },
+    {
+        "question": "Hangi alanlara hayranlık duyuyorsun 😍",
+        "answers": [
+            {
+                "answer": "Web siteleri",
+                "points": {
+                    "JavaScript": 5,
+                    "Python": 2,
+                    "Java": 3,
+                    "C++": 1
+                }
+            },
+            {
+                "answer": "Oyunlar",
+                "points": {
+                    "JavaScript": 3,
+                    "Python": 1,
+                    "Java": 5,
+                    "C++": 5
+                }
+            },
+            {
+                "answer": "Yapay zeka",
+                "points": {
+                    "JavaScript": 3,
+                    "Python": 5,
+                    "Java": 2,
+                    "C++": 2
+                }
+            },
+            {
+                "answer": "Sunucular",
+                "points": {
+                    "JavaScript": 1,
+                    "Python": 4,
+                    "Java": 4,
+                    "C++": 3
+                }
+            },
+            {
+                "answer": "Masaüstü programlar",
+                "points": {
+                    "JavaScript": 2,
+                    "Python": 2,
+                    "Java": 4,
+                    "C++": 5
+                }
+            },
+            {
+                "answer": "Mobil uygulamalar",
+                "points": {
+                    "JavaScript": 3,
+                    "Python": 1,
+                    "Java": 5,
+                    "C++": 5
+                }
+            }
+        ]
+    },
+    {
+        "question": "Hangi tür problemleri çözmek seni daha çok heyecanlandırır 🤩",
+        "answers": [
+            {
+                "answer": "Matematiksel problemler",
+                "points": {
+                    "Python": 5,
+                    "Java": 4,
+                    "C++": 5,
+                    "JavaScript": 2
+                }
+            },
+            {
+                "answer": "Veri analizi ve makine öğrenimi",
+                "points": {
+                    "Python": 5,
+                    "Java": 3,
+                    "JavaScript": 2,
+                    "C++": 3
+                }
+            },
+            {
+                "answer": "Web geliştirme",
+                "points": {
+                    "JavaScript": 5,
+                    "Python": 3,
+                    "Java": 2,
+                    "C++": 1
+                }
+            },
+            {
+                "answer": "Oyun geliştirme",
+                "points": {
+                    "C++": 5,
+                    "Java": 4,
+                    "JavaScript": 3,
+                    "Python": 2
+                }
+            },
+            {
+                "answer": "Yazılım güvenliği",
+                "points": {
+                    "Java": 5,
+                    "C++": 4,
+                    "Python": 5,
+                    "JavaScript": 3
+                }
+            },
+            {
+                "answer": "Mobil uygulama geliştirme",
+                "points": {
+                    "Java": 5,
+                    "JavaScript": 3,
+                    "Python": 2,
+                    "C++": 1
+                }
+            }
+        ]
+    },
+    {
+        "question": "Hangi türden projelerde çalışmak istersiniz 🤖",
+        "answers": [
+            {
+                "answer": "Güvenlik odaklı projeler",
+                "points": {
+                    "JavaScript": 3,
+                    "Python": 4,
+                    "Java": 5,
+                    "C++": 4
+                }
+            },
+            {
+                "answer": "Büyük ölçekli projeler",
+                "points": {
+                    "JavaScript": 4,
+                    "Python": 5,
+                    "Java": 5,
+                    "C++": 5
+                }
+            },
+            {
+                "answer": "Mobil oyun projeleri",
+                "points": {
+                    "JavaScript": 3,
+                    "Python": 1,
+                    "Java": 5,
+                    "C++": 5
+                }
+            },
+            {
+                "answer": "Web uygulamaları",
+                "points": {
+                    "JavaScript": 5,
+                    "Python": 3,
+                    "Java": 4,
+                    "C++": 1
+                }
+            },
+            {
+                "answer": "Blokchain projeleri",
+                "points": {
+                    "JavaScript": 4,
+                    "Python": 5,
+                    "Java": 3,
+                    "C++": 4
+                }
+            }
+        ]
+    },
+    {
+        "question": "Yeni bir programlama dilini öğrenirken sabırlı mısın 🤨",
+        "answers": [
+            {
+                "answer": "Evet, öğrenmeyi sabırla ve istekli bir şekilde yaparım",
+                "points": {
+                    "Python": 5,
+                    "Java": 5,
+                    "JavaScript": 5,
+                    "C++": 5
+                }
+            },
+            {
+                "answer": "Çoğunlukla sabırlıyım, ancak bazen zorlanıyorum",
+                "points": {
+                    "Python": 5,
+                    "Java": 4,
+                    "JavaScript": 5,
+                    "C++": 4
+                }
+            },
+            {
+                "answer": "Hayır, hızlı bir şekilde öğrenmeyi tercih ederim ve hemen sonuç almak isterim",
+                "points": {
+                    "Python": 3,
+                    "Java": 2,
+                    "JavaScript": 2,
+                    "C++": 1
+                }
+            },
+            {
+                "answer": "Tamamen sabırsızım ve yavaş bir öğrenme süreci beni sıkıyor",
+                "points": {
+                    "Python": 2,
+                    "Java": 0,
+                    "JavaScript": 2,
+                    "C++": 0
+                }
+            }
+        ]
+    }
+]
