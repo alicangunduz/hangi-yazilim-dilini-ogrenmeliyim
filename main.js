@@ -13,10 +13,7 @@ async function getQuestions() {
   return data
 }
 let data = []
-addEventListener("DOMContentLoaded", async () => {
-  data = await getQuestions()
 
-})
 
 let questionNumber = 0
 let questionTitle = document.getElementById("question-title")
@@ -25,6 +22,7 @@ let infoQuestion = document.getElementById("info-questions")
 
 // Sayfa yüklenince ilk soruyu getiriyoruz.
 addEventListener("load", async () => {
+  data = await getQuestions()
   infoQuestion.innerHTML = `Soru ${questionNumber + 1} / ${data.length}`
   questionTitle.innerHTML = data[questionNumber].question
   for (let i = 0; i < data[questionNumber].answers.length; i++) {
