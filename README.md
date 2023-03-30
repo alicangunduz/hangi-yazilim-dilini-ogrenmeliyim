@@ -13,4 +13,7 @@ Katkılara her zaman açığız. Gördüğünüz hatalar için issue açabilir, 
 
 ## Destek ve İletişim
 
-Destek ve iletişim için hi@alicangunduz.dev adresine e-posta gönderebilirsiniz.  
+Destek ve iletişim için hi@alicangunduz.dev adresine e-posta gönderebilirsiniz. 
+
+## Community
+https://discord.gg/kampus destekleri ile.
