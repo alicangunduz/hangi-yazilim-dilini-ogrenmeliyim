@@ -110,7 +110,7 @@ nextQuestion.addEventListener("click", async () => {
       questionTitle.innerHTML = data[questionNumber].question
       questionAnswers.innerHTML = ""
       for (let i = 0; i < data[questionNumber].answers.length; i++) {
-        questionAnswers.innerHTML += `
+      questionAnswers.innerHTML += `
               <label for="${i}" id="answers${i}" class="step_1 animate__animated animate__fadeInRight animate_25ms position-relative rounded-pill text-start text-white" onclick="selectAnswers(${i})">
               ${data[questionNumber].answers[i]["answer"]}
                <input id="${i}" type="radio" name="stp_1_select_option" value=" Javascript : ${data[questionNumber].answers[i]["points"]["JavaScript"]} , Python : ${data[questionNumber].answers[i]["points"]["Python"]} , Java : ${data[questionNumber].answers[i]["points"]["Java"]} , C++ : ${data[questionNumber].answers[i]["points"]["C++"]} ">
